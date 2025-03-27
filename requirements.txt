@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+mediapipe
+tempfile
+yaml
+numpy
+ffmpeg-python
+deepface
+gtts
+moviepy
+matplotlib
