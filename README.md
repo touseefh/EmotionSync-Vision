@@ -26,7 +26,7 @@ This tool is ideal for applications such as:
 
 ### Prerequisites
 Ensure you have the following installed:
-- Python 3.8+
+- Python 3.10+
 - pip (Python package manager)
 
 ### Step 1: Clone the Repository
